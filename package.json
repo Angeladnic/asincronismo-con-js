@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cb:challenge": "node src/callback/challenge.js"
+    "cb:challenge": "node src/callback/challenge.js",
+    "promise": "node src/promise/index.js"
   },
   "keywords": [],
   "author": "",
